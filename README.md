@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-EldeRafael🤚 Apenas um entusiaste. Amante de tecnologia ⚙ 
+EldeRafael🤚 Apenas um entusiasta!😏😎. Amante de tecnologia ⚙ 
 
 Extremamente apaixonado por tecnologias. Entrando agora nesse fantástico mundo do desenvolvimento web e mobile!
 
