@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**elderafael/EldeRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EldeRafael🤚 Apenas um entusiaste. Amante de tecnologia ⚙ 
 
-Here are some ideas to get you started:
+Extremamente apaixonado por tecnologias. Entrando agora nesse fantástico mundo do desenvolvimento web e mobile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Buscando uma maior experiência e aprofundamento nessas areas. Estudando tecnologias como:
+
+▶️React
+▶️React Native
+▶️JavaScript
+▶️JSON
+▶️HTML
+▶️CSS
+▶️Projetos de Sistemas
+▶️UML
+
+Atualmente sendo um participante ativo e assiduo da NextLevelWeek (NLW) 💻, onde espero adquirir sólidos conhecimentos nessas tecnologias que amo!💻😍
+
+Tenho como objetivo ajudar o mundo 🗺 através de aplicações web e/ou mobile. Tornando atividades antes complexas, mais fáceis :smiley:
+Beneficiando todos, estamos contribuindo para um cibermundo melhor 😀
