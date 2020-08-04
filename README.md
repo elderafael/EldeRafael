@@ -18,4 +18,4 @@ Buscando uma maior experiência e aprofundamento nessas areas. Estudando tecnolo
 Atualmente sendo um participante ativo e assiduo da NextLevelWeek (NLW) 💻, onde espero adquirir sólidos conhecimentos nessas tecnologias que amo!💻😍
 
 Tenho como objetivo ajudar o mundo 🗺 através de aplicações web e/ou mobile. Tornando atividades antes complexas, mais fáceis :smiley:
-Beneficiando todos, estamos contribuindo para um cibermundo melhor 😀
+Beneficiando todos, estamos contribuindo para um cybermundo melhor 😀
