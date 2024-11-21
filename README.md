@@ -13,7 +13,6 @@ Buscando uma maior experiência e aprofundamento nessas areas. Estudando tecnolo
 ▶️HTML
 ▶️CSS
 ▶️Projetos de Sistemas
-▶️UML
 
-Tenho como objetivo ajudar o mundo 🗺 através de aplicações web e/ou mobile. Tornando atividades antes complexas, mais fáceis :smiley:
+Tenho como objetivo produzir soluções através de aplicações web e/ou mobile. Tornando atividades antes complexas, mais fáceis :smiley:
 Beneficiando todos, estamos contribuindo para um cybermundo melhor 😀
